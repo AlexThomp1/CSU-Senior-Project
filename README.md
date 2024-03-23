@@ -10,6 +10,8 @@ To install the application, please download the Setup Installer located in the R
 
 ### [CLICK HERE TO DOWNLOAD THE APPLICATION](https://github.com/AlexThomp1/Easy-Image-File-Type-Converter/releases/)
 
+![Image of Application](images/MainImage.png)
+
 ## Usage
 The application allows for single image conversion and multi-image conversion.
 
