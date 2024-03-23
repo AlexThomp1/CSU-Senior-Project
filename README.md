@@ -8,6 +8,8 @@ Currently, this application is only compatbile with Windows computers.
 
 To install the application, please download the Setup Installer located in the Releases section of this page.
 
+[CLICK HERE TO DOWNLOAD THE APPLICATION](https://github.com/AlexThomp1/Easy-Image-File-Type-Converter/releases/)
+
 ## Usage
 The application allows for single image conversion and multi-image conversion.
 
