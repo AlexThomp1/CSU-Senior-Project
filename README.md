@@ -13,7 +13,7 @@ To install the application, please download the Setup Installer located in the R
 ## Usage
 The application allows for single image conversion and multi-image conversion.
 
-Single Image Conversion:
+### Single Image Conversion:
 - Open the application
 - Click the Select Image button
 - Find an image to convert
@@ -22,7 +22,7 @@ Single Image Conversion:
 - Find a location to export the new image file
 - Once exported, the new image file has been exported successfully
 
-Multi-Image Conversion:
+### Multi-Image Conversion:
 - Open the application
 - On your computer, select multiple image files
 - Drag and Drop the selected files on top of the opened application
@@ -30,7 +30,7 @@ Multi-Image Conversion:
 
 Multi-Image Conversion uses the Default File Location and Default File Type selected in the "Quick Export Settings".
 
-Quick Export Settings:
+### Quick Export Settings:
 - Default File Location: If not enabled, the multi-image conversion will automatically place the converted file in the same location as the original image.
 - If enabled, you may select a location for the multi-image conversion to automatically export the new image files to.
 - Default File Type: Select which file type you want the multi-image conversion to automatically convert the new image files to.
