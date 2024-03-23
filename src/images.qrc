@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/gearSmaller.png</file>
+        <file>images/Black_question_mark.png</file>
+        <file>images/file_open_icon.png</file>
+        <file>images/file_export_icon.png</file>
+        <file>images/green_check.png</file>
+        <file>images/no_image_selected.png</file>
+        <file>images/image_converter_icon.ico</file>
+    </qresource>
+</RCC>
