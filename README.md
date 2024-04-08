@@ -23,12 +23,12 @@ The application allows for single image conversion and multi-image conversion.
 
 ### Single Image Conversion:
 1) Open the application
-2) Click the Select Image button
+2) Click the Select Image button <br>
 ![Image of Application](media/step2.png)
 3) Find an image to convert
 4) Once imported and displayed at the left, click the Export Image button
 ![Image of Application](media/step4.png)
-5) At the bottom left of the pop-up window, change the file type to any of the other options
+5) At the bottom of the pop-up window, change the file type to any of the options
 ![Image of Application](media/step5.png)
 6) Find a location to export the new image file
 7) Once exported, the new image file has been exported successfully
