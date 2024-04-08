@@ -6,7 +6,7 @@ Easy Image File Type Converter is a simple to use desktop application for Window
 ## Features
 - Convert images to and from the supported file types: PNG, JPG/JPEG, WEBP, TIFF, and BMP.
 - Multi-Image Conversion
-- Persistant User Settings
+- Persistent User Settings
 - Super Fast Conversion Speeds
 
 ## Installation
