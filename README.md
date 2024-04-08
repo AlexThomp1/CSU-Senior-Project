@@ -36,8 +36,11 @@ The application allows for single image conversion and multi-image conversion.
 ### Multi-Image Conversion:
 1) Open the application
 2) On your computer, select multiple image files
+![Image of Application](media/step2_multi.png)
 3) Drag and Drop the selected files on top of the opened application
+![Image of Application](media/step3_multi.png)
 4) Wait until all images have been converted successfully
+![Image of Application](media/step4_multi.png)
 
 Multi-Image Conversion uses the Default File Location and Default File Type selected in the "Quick Export Settings".
 
